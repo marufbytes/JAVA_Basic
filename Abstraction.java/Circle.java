@@ -1,5 +1,3 @@
-
-
 public class Circle extends Shape {
     Circle (double r, double u){
         super(r,r);
