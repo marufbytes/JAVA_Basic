@@ -1,6 +1,6 @@
 import java.util.LinkedList;
 
-public class LikedList0 {
+public class LikedList {
     public static void main(String[] args) {
         
        LinkedList <String> countryName = new LinkedList<String>();
