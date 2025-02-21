@@ -1,8 +1,6 @@
+public class Xiaomi extends MobileUser {
 
-
-public class Xiaomi extends MobileUser{
-    
-    void SendMessage(){
+    void SendMessage() {
         System.out.println("Xiaomi");
     }
 

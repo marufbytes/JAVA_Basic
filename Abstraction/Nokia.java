@@ -1,9 +1,7 @@
-
-
 public class Nokia extends MobileUser {
-    
-    void SendMessage (){
+
+    void SendMessage() {
         System.out.println("Nokia");
-        }
+    }
 
 }
